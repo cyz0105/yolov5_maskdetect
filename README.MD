@@ -24,7 +24,7 @@ source bin/activate
 3. 克隆代码
 
 ```shell
-git clone https://github.com/cyz0105/yolov5-mask-detect.git
+git clone https://github.com/cyz0105/yolov5_maskdetect.git
 ```
 
 4. 安装必要的依赖
