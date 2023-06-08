@@ -1,4 +1,6 @@
-# 毕业设计之 《基于计算机视觉的口罩佩戴巡检小车设计与实现》
+# 《基于计算机视觉的口罩佩戴巡检小车设计与实现》
+
+数据集在[我的repositories里](https://github.com/cyz0105/mask_dataset.git)
 
 ## 部署教程
 
