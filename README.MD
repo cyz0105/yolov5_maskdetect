@@ -2,8 +2,9 @@
 
 ## 部署教程
 
-###一、树莓派刷入官方系统
-[树莓派刷机教程](https://blog.csdn.net/xiaozhoukong/article/details/112726366 '树莓派刷机教程') ###二、链接 ssh，准备环境
+### 一、树莓派刷入官方系统
+[树莓派刷机教程](https://blog.csdn.net/xiaozhoukong/article/details/112726366 '树莓派刷机教程') 
+### 二、链接 ssh，准备环境
 
 1. 开启树莓派 ssh 功能
    在 SD 卡中烧录好 Raspbian 系统之后，在内存卡的根目录创建一个名为 ssh 的空文件夹
