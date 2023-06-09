@@ -35,7 +35,7 @@ git clone https://github.com/cyz0105/yolov5_maskdetect.git
 pip3 install -r requirements.txt
 ```
 
-###三、启动代码
+### 三、启动代码
 
 ```shell
 python3 detect.py
