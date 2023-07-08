@@ -1,5 +1,7 @@
 # 《基于计算机视觉的口罩佩戴巡检小车设计与实现》
 
+# 一个简简单单的毕设，做的很粗糙， 直接在detect的代码里更改， 不优雅，也不想改了， 谁想用可以自行更改
+
 数据集在[我的repositories里](https://github.com/cyz0105/mask_dataset.git)
 
 ## 部署教程
